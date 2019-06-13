@@ -1,0 +1,13 @@
+[
+  "witbot-diagnostics",
+  "witbot-help",
+  "witbot-heroku-keepalive",
+  "witbot-google-images",
+  "witbot-google-translate",
+  "witbot-pugme",
+  "witbot-maps",
+  "witbot-redis-brain",
+  "witbot-rules",
+  "witbot-shipit",
+  "witbot-repl"
+]

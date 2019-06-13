@@ -1,2 +1,4 @@
-# witbot
-AI Powered chatbot
+# AI Powered chatbot
+
+## Deploy
+- Heroku

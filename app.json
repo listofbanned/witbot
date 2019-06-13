@@ -1,0 +1,9 @@
+{
+  "name": "repl-witbot",
+  "env": {
+    "WITBOT_SLACK_TOKEN": "",
+    "WITBOT_REPL_API_KEY": "",
+    "WITBOT_REPL_BOT_ID": "",
+    "WITBOT_REPL_TOPIC_ID": ""
+  }
+}
